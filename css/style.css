@@ -247,3 +247,8 @@ nav a:hover{
 .tech-info ul{
     list-style: none;
 }
+
+.col-md-6{
+    
+    margin: 52px 0 50px 0;
+}
