@@ -215,6 +215,25 @@ nav a:hover{
     color: #000;
 }
 
+.descriptions-button a{
+    background-color: #bababa;
+    border: none;
+    color: rgb(18,24,31);
+    /* padding: 15px 32px; */
+    /* text-align: center; */
+    text-decoration: none;
+    display: inline-block;
+    font-size: 30px;
+    /* margin: 4px 2px; */
+    cursor: pointer;
+    border-radius: 10px;
+}
+
+.descriptions-button a:hover{
+    background-color: rgb(18,24,31);
+    color: rgb(255, 255, 255);
+}
+
 
 .footer{
     background-color:#fff;
