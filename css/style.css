@@ -44,7 +44,7 @@ nav ul{
 
 nav li{
     display:inline;
-    margin-right:4%;
+    margin-right:3%;
 }
 
 nav a{
@@ -216,21 +216,22 @@ nav a:hover{
 }
 
 .descriptions-button a{
-    background-color: #bababa;
+    background-color: #838383;
     border: none;
-    color: rgb(18,24,31);
-    /* padding: 15px 32px; */
-    /* text-align: center; */
+    color: rgb(255, 255, 255);
+    padding: 15px 32px;
+    text-align: center;
     text-decoration: none;
     display: inline-block;
     font-size: 30px;
-    /* margin: 4px 2px; */
+    margin: 4px 2px;
     cursor: pointer;
     border-radius: 10px;
+    width: 100%;
 }
 
 .descriptions-button a:hover{
-    background-color: rgb(18,24,31);
+    background-color: rgb(92, 92, 92);
     color: rgb(255, 255, 255);
 }
 
@@ -246,9 +247,4 @@ nav a:hover{
 
 .tech-info ul{
     list-style: none;
-}
-
-.col-md-6{
-    
-    margin: 52px 0 50px 0;
 }
