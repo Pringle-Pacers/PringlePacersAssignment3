@@ -248,3 +248,14 @@ nav a:hover{
 .tech-info ul{
     list-style: none;
 }
+
+.table-style table, th, td{
+    border: 1px solid black;
+    width: 400px;
+}
+
+.table-task{
+    width: 600px;
+    text-align: left;
+    padding-left: 6px;
+}
